@@ -1,9 +1,14 @@
 # Controlling a swarm of mobile robots
 
-
-
 > "Make things moves while behaving well." (i.e. behavior-based control)
 
+* [Control Theory](#control-theory)
+* [Robotics &amp; Robot models](#robotics--robot-models)
+* [Mobility controllers](#mobility-controllers)
+* [Applications](#applications)
+* [Resources](#resources)
+    * [Libraries](#libraries)
+    * [Demos/Articles/courses](#demosarticlescourses)
 
 
 
